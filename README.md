@@ -1,2 +1,4 @@
-# AIstreamer
-time to do a funny
+# AI streamer
+time to do a funny with deepseek
+
+in progress.......
